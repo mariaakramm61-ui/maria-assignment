@@ -1,0 +1,6 @@
+{
+  "name": "Amazon FBA Product Research Sheet USA",
+  "description": "Helium 10 X-Ray Amazon FBA product hunting comparison sheet, criteria validation, profit calculator, and direct Excel .xlsx export for assignment submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
